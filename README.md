@@ -11,7 +11,7 @@ Welcome to the **Tkinter TODO List App**! This simple yet elegant application al
 
 ## Screenshots
 
-![TODO List App Screenshot](SS.png)
+![TODO List App Screenshot](image.png)
 
 ## Installation
 
